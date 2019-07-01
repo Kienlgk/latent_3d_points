@@ -1,0 +1,4 @@
+tflearn==0.3.2
+jupyter
+h5py
+opencv-python
